@@ -1,0 +1,25 @@
+{
+  "name": "noddy-nodejs",
+  "version": "1.0.0",
+  "description": "Noddy toy app for jenkins builds",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arausuy/noddy-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arausuy/noddy-nodejs/issues"
+  },
+  "homepage": "https://github.com/arausuy/noddy-nodejs#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
